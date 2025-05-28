@@ -1,5 +1,5 @@
-name: 历史上的今天 # 这是你的插件的唯一识别名。
-desc: 获取历史上的今天图片。 # 插件简短描述
-version: v1.0 # 插件版本号。格式：v1.1.1 或者 v1.1
-author: FlyingMuyu # 作者
-repo: https://github.com/FlyingMuyu/astrbot_plugin_todayinhistory # 插件的仓库地址
+name: astrbot_plugin_todayinhistory
+author: FlyingMuyu
+description: 历史事件查询插件
+version: 1.0.1
+repository: https://github.com/FlyingMuyu/astrbot_plugin_todayinhistory
